@@ -1,0 +1,11 @@
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Interface\bin\Debug\OrientacaoAObjetos.Interface.exe.config
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Interface\bin\Debug\OrientacaoAObjetos.Interface.exe
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Interface\bin\Debug\OrientacaoAObjetos.Interface.pdb
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Interface\bin\Debug\OrientacaoAObjetos.Dia1.dll
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Interface\bin\Debug\OrientacaoAObjetos.Dia1.pdb
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Interface\obj\Debug\OrientacaoAObjetos.Interface.csproj.AssemblyReference.cache
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Interface\obj\Debug\OrientacaoAObjetos.Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Interface\obj\Debug\OrientacaoAObjetos.Interface.csproj.CoreCompileInputs.cache
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Interface\obj\Debug\OrientacaoAObjetos.Interface.csproj.CopyComplete
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Interface\obj\Debug\OrientacaoAObjetos.Interface.exe
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Interface\obj\Debug\OrientacaoAObjetos.Interface.pdb
