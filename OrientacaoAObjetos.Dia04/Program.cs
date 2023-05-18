@@ -47,13 +47,17 @@ namespace OrientacaoAObjetos.Dia04
                     }
                 }
             }
+            //Descubra agora a diagonal secundária
+            
+            Console.WriteLine("*******Mostrando os dados:******");
+            var total = 0;
+            foreach (var item in matrizQuadrada)
+            {
+                Console.WriteLine(item.ToString());
+                total = total + item;
+            }
+            Console.WriteLine(total.ToString());
             Console.ReadKey();
-            //Console.WriteLine("*******Mostrando os dados:******");
-            //foreach (var item in matrizQuadrada)
-            //{
-            //    Console.WriteLine(item.ToString());
-            //}
-            //Console.ReadKey();
         }
     }
 }
