@@ -1,0 +1,8 @@
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia04\bin\Debug\OrientacaoAObjetos.Dia04.exe.config
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia04\bin\Debug\OrientacaoAObjetos.Dia04.exe
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia04\bin\Debug\OrientacaoAObjetos.Dia04.pdb
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia04\obj\Debug\OrientacaoAObjetos.Dia04.csproj.AssemblyReference.cache
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia04\obj\Debug\OrientacaoAObjetos.Dia04.csproj.SuggestedBindingRedirects.cache
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia04\obj\Debug\OrientacaoAObjetos.Dia04.csproj.CoreCompileInputs.cache
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia04\obj\Debug\OrientacaoAObjetos.Dia04.exe
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia04\obj\Debug\OrientacaoAObjetos.Dia04.pdb

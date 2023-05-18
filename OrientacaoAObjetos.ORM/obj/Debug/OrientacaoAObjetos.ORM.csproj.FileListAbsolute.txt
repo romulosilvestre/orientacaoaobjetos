@@ -1,0 +1,12 @@
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.ORM\bin\Debug\OrientacaoAObjetos.ORM.dll.config
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.ORM\bin\Debug\OrientacaoAObjetos.ORM.dll
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.ORM\bin\Debug\OrientacaoAObjetos.ORM.pdb
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.ORM\bin\Debug\EntityFramework.dll
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.ORM\bin\Debug\EntityFramework.xml
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.ORM\obj\Debug\OrientacaoAObjetos.ORM.csproj.AssemblyReference.cache
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.ORM\obj\Debug\OrientacaoAObjetos.ORM.csproj.CoreCompileInputs.cache
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.ORM\obj\Debug\OrientacaoAObjetos.ORM.csproj.CopyComplete
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.ORM\obj\Debug\OrientacaoAObjetos.ORM.dll
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.ORM\obj\Debug\OrientacaoAObjetos.ORM.pdb

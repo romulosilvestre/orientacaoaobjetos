@@ -35,6 +35,16 @@ namespace OrientacaoAObjetos.Dia2
             Nome= nome;
             CPF = cpf;
         }
+        public Segurado(int id,string nome, string cpf)
+        {
+            Id = id;
+            Nome = nome;
+            CPF = cpf;
+        }
+        public Segurado(string cpf,string nome,int id)
+        {
+
+        }
 
         public string Teste()
         {

@@ -1,0 +1,8 @@
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia4Laboratorio\bin\Debug\OrientacaoAObjetos.Dia4Laboratorio.exe.config
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia4Laboratorio\bin\Debug\OrientacaoAObjetos.Dia4Laboratorio.exe
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia4Laboratorio\bin\Debug\OrientacaoAObjetos.Dia4Laboratorio.pdb
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia4Laboratorio\obj\Debug\OrientacaoAObjetos.Dia4Laboratorio.csproj.AssemblyReference.cache
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia4Laboratorio\obj\Debug\OrientacaoAObjetos.Dia4Laboratorio.csproj.SuggestedBindingRedirects.cache
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia4Laboratorio\obj\Debug\OrientacaoAObjetos.Dia4Laboratorio.csproj.CoreCompileInputs.cache
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia4Laboratorio\obj\Debug\OrientacaoAObjetos.Dia4Laboratorio.exe
+C:\Users\PROFESSOR\source\repos\OrientacaoAObjetos\OrientacaoAObjetos.Dia4Laboratorio\obj\Debug\OrientacaoAObjetos.Dia4Laboratorio.pdb
